@@ -1,0 +1,30 @@
+TIFFFillStrip: Read error on strip 123; got 1183 bytes, expected 7331.
+Error loading images/swimming-pool/train/yes/W34B_22_85.tif
+TIFFFillStrip: Read error on strip 176; got 6613 bytes, expected 7108.
+Error loading images/swimming-pool/train/yes/W34D_18_19.tif
+TIFFFillStrip: Read error on strip 214; got 635 bytes, expected 6942.
+Error loading images/swimming-pool/train/yes/W34D_21_93.tif
+TIFFFillStrip: Read error on strip 225; got 6401 bytes, expected 6887.
+Error loading images/swimming-pool/train/yes/W34C_24_80.tif
+TIFFFillStrip: Read error on strip 123; got 4422 bytes, expected 6905.
+Error loading images/swimming-pool/train/yes/W34D_3_69.tif
+TIFFFillStrip: Read error on strip 288; got 5165 bytes, expected 7227.
+Error loading images/swimming-pool/train/yes/W34D_15_72.tif
+TIFFFillStrip: Read error on strip 604; got 6601 bytes, expected 7789.
+Error loading images/swimming-pool/train/yes/W34D_24_69.tif
+TIFFFillStrip: Read error on strip 268; got 1025 bytes, expected 5889.
+Error loading images/swimming-pool/train/yes/W35A_10_43.tif
+TIFFFillStrip: Read error on strip 265; got 3714 bytes, expected 7238.
+Error loading images/swimming-pool/train/yes/W34D_11_27.tif
+Error loading images/swimming-pool/train/yes/W34D_1_100.tif
+TIFFFillStrip: Read error on strip 591; got 6572 bytes, expected 7451.
+TIFFFillStrip: Read error on strip 125; got 2546 bytes, expected 6795.
+Error loading images/swimming-pool/train/yes/W34D_13_46.tif
+TIFFFillStrip: Read error on strip 184; got 693 bytes, expected 6558.
+Error loading images/swimming-pool/train/yes/W35A_12_53.tif
+TIFFFillStrip: Read error on strip 223; got 2499 bytes, expected 7217.
+Error loading images/swimming-pool/train/yes/W34B_25_74.tif
+TIFFFillStrip: Read error on strip 277; got 3561 bytes, expected 7130.
+Error loading images/swimming-pool/train/yes/W34C_19_63.tif
+TIFFFillStrip: Read error on strip 359; got 5632 bytes, expected 6703.
+Error loading images/swimming-pool/train/yes/W34C_21_78.tif
