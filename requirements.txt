@@ -1,0 +1,10 @@
+tqdm
+matplotlib
+numpy
+torch
+torchvision
+lightning
+pandas
+geopandas
+prophet
+timm
