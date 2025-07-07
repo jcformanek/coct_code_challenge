@@ -1,0 +1,3 @@
+img_size: 224
+lr: 0.001
+pos_weight: 0.5

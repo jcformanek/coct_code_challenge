@@ -8,3 +8,5 @@ pandas
 geopandas
 prophet
 timm
+tifffile
+pillow

@@ -21,7 +21,14 @@ The resepective solutions are self-contained in Python Notebooks
 
 All requirements are in the `requirements.txt` file.
 
+## Training logs
+Tensorboard logs for the computer vision task are included in `lightning_logs/` and can be viewed using tensorboard.
+
+`tensorboard --logdir lightning_logs`
+
 ## Git Log
+Git was used throughout this project, with apropriate versioning and branching. Here is a copy of the Git Log.
+
 
 ```
 
